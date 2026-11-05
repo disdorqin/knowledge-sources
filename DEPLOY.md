@@ -6,7 +6,7 @@
 
 - 2026-11-05：用户已在 GitHub 创建空仓库 `disdorqin/knowledge-sources`，默认分支 `main`。
 - 本仓库只引用 22 个第三方公开资源；未 Fork、Submodule 或复制外部正文。
-- 初始目录与治理规范由已授权的 GitHub 连接写入；以 GitHub 当前默认分支内容和提交记录为上线事实来源。
+- 初始目录与治理规范由已授权的 GitHub 连接写入：内容提交 `484ed1532cc43192b86b917ccf829d2792fb45f1`，远端目录、8 个 Topic 和 22 个链接检查通过；以 GitHub 当前默认分支内容和提交记录为上线事实来源。
 - OpenViking 外部入口仍是提案，**没有**因本仓库上线而自动发布到 OpenViking。
 
 ## 上线后验收
